@@ -1,4 +1,6 @@
-Hyms tryna blame me for scamming when hes literally exiting after I told him Externals will get patched. ESP Only is a shit Vtable driver which is detected and he cant add a write function to do aimbot LMFAO, and Aim was using my TECH driver. And I told him to change it but he didnt, hes a fucking ape. Also downloading to disk, AND usign KeyAuth so any bypass works you can literally jmp the loader. And the TECH driver has a blacklisted cert and he cant even map it. He just starts it which is why it doesnt work for half of the buyers because he changes the date to start it because god knows why. Now he claims its the old source, wether it is or isnt this is enough to clown you.
+Hyms tryna blame me for scamming when hes literally exiting after I told him Externals will get patched. ESP Only is a shit Vtable driver which is detected and he cant add a write function to do aimbot LMFAO, and Aim was using my TECH driver. And I told him to change it but he didnt, hes a fucking ape. Also downloading to disk, AND usign KeyAuth so any bypass works you can literally jmp the loader. And the TECH driver has a blacklisted cert and he cant even map it. He just starts it which is why it doesnt work for half of the buyers because he changes the date to start it because god knows why. Now he claims its the old source, wether it is or isnt this is enough to clown you. 
+
+`THIS IS STILL UPDATED: For help contact: desire#1000`
 
 
 **To bypass the auth on the loaders, inject the keyauth bypass into the loader and hit F7 then enter a random key, your welcome**
